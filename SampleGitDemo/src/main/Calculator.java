@@ -24,5 +24,9 @@ public class Calculator {
 	public static void cube(int num1){
 	      System.out.println(num1*num1*num1);
 	  }
+	public static void masterfunc1(int num1){
+	      System.out.println(num1*num1*num1);
+	  }
+	
 	
 }
